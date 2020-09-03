@@ -1,4 +1,4 @@
-### Hello there!! 👋 .. I'm Akhilesh
+## Hello there!! 👋 .. I'm Akhilesh
 
 --- 
 <a href="https://twitter.com/agarwal_aries">
@@ -7,7 +7,6 @@
 <a href="https://www.linkedin.com/in/akhilesh-agarwal-03435635/">
   <img align="left" alt="Akhilesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
 ---
 <img align="right" alt="GIF" src="https://media.giphy.com/media/D1i1ZNUp2jVpC/giphy.gif" />
 
