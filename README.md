@@ -11,7 +11,7 @@ I'm a developer having expertise in Java, MicroService Architecture
   <img align="left" alt="Akhilesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/D1i1ZNUp2jVpC/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" />
 
 
 ## More About me 👇
