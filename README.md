@@ -1,5 +1,6 @@
 ### Hello there!! 👋 .. I'm Akhilesh
 
+--- 
 <a href="https://twitter.com/agarwal_aries">
   <img align="left" alt="Akhilesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -10,13 +11,13 @@
 ---
 <img align="right" alt="GIF" src="https://media.giphy.com/media/D1i1ZNUp2jVpC/giphy.gif" />
 
-### About me
+### Currently
 
-- 🔭 I'm currently getting my hands dirty with 
-  JavaScript 
-  Github Actions
-  CI/CD
-- 🌱 I’m currently learning how things work in React world and trying to implement different concepts related to same
+- 🔭 At workplace, getting my hands dirty with 
+  - JavaScript 
+  - CI/CD
+  
+- 🌱 Learning how things work in 
 - 👯 I’m looking to collaborate on projects which can help
 - 💬 Ask me about Java, MicroSrvice Architechture, REST.
 - ⚡ Somethings I :heart: ..  is to help, learn and if I get more time than Movies, Travelling.
