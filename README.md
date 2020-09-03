@@ -8,7 +8,7 @@ I'm a developer having expertise in Java, MicroService Architecture
   <img align="left" alt="Akhilesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-I am Akhilesh
+<br />
 
 - 🔭 Currently working on 
   - JavaScript
