@@ -2,7 +2,8 @@
 
 I'm a developer having expertise in Java, MicroService Architecture
 
---- 
+
+
 <a href="https://twitter.com/agarwal_aries">
   <img align="left" alt="Akhilesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -11,8 +12,6 @@ I'm a developer having expertise in Java, MicroService Architecture
 </a>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/D1i1ZNUp2jVpC/giphy.gif" />
-
----
 
 
 ## More About me 👇
