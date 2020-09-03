@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://twitter.com/agarwal_aries">
+##<a href="https://twitter.com/agarwal_aries">
   <img align="left" alt="Akhilesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/akhilesh-agarwal-03435635/">
