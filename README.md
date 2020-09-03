@@ -10,9 +10,12 @@
 ---
 <img align="right" alt="GIF" src="https://media.giphy.com/media/D1i1ZNUp2jVpC/giphy.gif" />
 
-###About me
+### About me
 
-- 🔭 I'm currently getting my hands dirty with JavaScript, Github Actions, CI/CD
+- 🔭 I'm currently getting my hands dirty with 
+  JavaScript 
+  Github Actions
+  CI/CD
 - 🌱 I’m currently learning how things work in React world and trying to implement different concepts related to same
 - 👯 I’m looking to collaborate on projects which can help
 - 💬 Ask me about Java, MicroSrvice Architechture, REST.
