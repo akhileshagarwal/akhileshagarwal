@@ -1,12 +1,9 @@
 ## Hello there!! 👋 
 
 
-
-<br />
-
 I'm a developer having expertise in different programming langugages, Software Architecture, System Design and Testing Methodologies.
 
-<br /><br />
+<br />
 
 🔭 Currently, exploring
   - JavaScript
