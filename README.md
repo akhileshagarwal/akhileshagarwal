@@ -10,14 +10,14 @@ I'm a developer having expertise in Java, MicroService Architecture
 
 <br />
 
-- 🔭 Currently working on 
+🔭 Currently working on 
   - JavaScript
   - CI/CD
   - GitHub Actions
   
-- 🌱 Learning Dynamic Programming Concepts
+🌱 Learning Dynamic Programming Concepts
 
-- 👯 I’m looking to collaborate on projects which can help others in any way.
+👯 I’m looking to collaborate on projects which can help others in any way.
 
-- ⚡ Somethings I :heart: .. is to help others, learn something new and if I get more time than Movies, Travelling.
+⚡ Somethings I :heart: .. is to help others, learn something new and if I get more time than Movies, Travelling.
 
